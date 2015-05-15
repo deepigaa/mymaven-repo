@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Test Suite">
+ <test name ="AppTest">
+  <classes>
+   <class name = "com.learntestng.AppTest.class"></class>
+  </classes>
+  </test>
+  <test name = "Sample test">
+   <classes>
+    <class name = "com.learntestng.SampleTest.class"></class>
+   </classes>
+  </test>
+ </suite> 
